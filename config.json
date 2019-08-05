@@ -1,0 +1,11 @@
+{
+  "X-Shopify-Access-Token": "835e3ff565183aad4cf0a0bdaf6a82a0",
+  "content-type": "application/json",
+  "verify": {
+    "header": {
+      "X-Shopify-Access-Token": "3d92cec6993a4b1764fdfb7a165c3cf2",
+      "content-type": "application/json"
+    },
+    "shop": "cowell-gec.myshopify.com"
+  }
+}
